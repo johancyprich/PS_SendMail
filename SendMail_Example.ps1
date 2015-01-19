@@ -1,4 +1,4 @@
-﻿### APPLICATION: PS_SendMail Example
+﻿### APPLICATION: SendMail Example
 ### VERSION: 1.0.0
 ### DATE: August 18, 2014
 ### AUTHOR: Johan Cyprich
@@ -38,7 +38,7 @@
 
 [string] $libraries = "D:\Projects\Libraries\MyLib\PowerShell"
 
-."$libraries\PS_SendMail\PS_SendMail.ps1"
+."$libraries\PS_SendMail\SendMail.ps1"
 
 
 #=[ MAIN ]=========================================================================================
