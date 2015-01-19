@@ -38,7 +38,7 @@
 
 [string] $libraries = "D:\Projects\Libraries\MyLib\PowerShell"
 
-."$libraries\PS_SendMail\SendMail.ps1"
+."$libraries\SendMail\SendMail.ps1"
 
 
 #=[ MAIN ]=========================================================================================
