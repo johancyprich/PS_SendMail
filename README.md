@@ -1,4 +1,4 @@
-SendMail.ps1 Library
+SendMail Library
 =====
 
 Version: 1.0.0<br />
